@@ -1,0 +1,3 @@
+rm -f *.o
+rm -f practica2 practica2lib
+rm -f libp2.a 
